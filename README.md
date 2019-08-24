@@ -1,2 +1,2 @@
 # news-app
-This Project is an microservice implementationof a news app.
+This Project is an microservice implementation of a news app.
