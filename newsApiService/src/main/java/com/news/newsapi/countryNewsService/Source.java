@@ -1,8 +1,11 @@
-package com.news.newsapi.newsApiService;
+package com.news.newsapi.countryNewsService;
 
 public class Source {
+	
 	private String id;
 	private String name;
+	
+	
 	public String getId() {
 		return id;
 	}

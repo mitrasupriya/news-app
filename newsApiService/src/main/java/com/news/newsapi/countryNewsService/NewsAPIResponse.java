@@ -1,4 +1,4 @@
-package com.news.newsapi.newsApiService;
+package com.news.newsapi.countryNewsService;
 
 public class NewsAPIResponse {
 	private String status;

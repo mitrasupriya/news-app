@@ -1,4 +1,4 @@
-package com.news.newsapi.newsApiService;
+package com.news.newsapi.countryNewsService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,8 +1,16 @@
-package com.news.newsapi.newsApiService;
+package com.news.newsapi.countryNewsService;
 
 public class Articles {
+	
 private Source source;
 private String author;
+private String title;
+private String description;
+private String url;
+private String urlToImage;
+private String publishedAt;
+private String content;
+
 public Source getSource() {
 	return source;
 }
@@ -51,11 +59,6 @@ public String getContent() {
 public void setContent(String content) {
 	this.content = content;
 }
-private String title;
-private String description;
-private String url;
-private String urlToImage;
-private String publishedAt;
-private String content;
+
 
 }
